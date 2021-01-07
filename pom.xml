@@ -219,11 +219,3 @@
 
 </project>
 
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>a0o3u6tpnqimw-artifactory-primary-0-releases</name>
-        <url>https://jfrogcummins.jfrog.io/artifactory/Jenkins-integration</url>
-    </repository>
-</distributionManagement>
-
