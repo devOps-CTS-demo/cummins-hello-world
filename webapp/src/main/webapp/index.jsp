@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Cummins Project KT !!   </h1>
-<h2> Deploying war file  on a Tomcat web server on Jan 6th </h2>
+<h2> Deploying war file  in a Dev environment- Jan7th </h2>
 
